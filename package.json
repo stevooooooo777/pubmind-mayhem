@@ -1,0 +1,19 @@
+
+
+
+{
+  "name": "pubmind-mayhem",
+  "version": "1.0.0",
+  "main": "mayhem-server.js",
+  "scripts": {
+    "start": "node mayhem-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.16.0",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
